@@ -1,6 +1,4 @@
-### Hi there 👋, Carlos Perez
-#### Full-Stack Web Developer
-![Full-Stack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://pbs.twimg.com/profile_banners/626952532/1652646394/1500x500)
 
 I am a Houston native very interested in working in web development and making projects.
 
@@ -16,4 +14,6 @@ Skills: HTML / CSS / JavaScript / React / Node.js / MongoDB
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=perezc52&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=perezc52)  
+
+
 
