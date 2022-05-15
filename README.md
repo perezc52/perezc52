@@ -61,7 +61,7 @@
 
 ## Github Stats  
 <div align='center'>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=perezc52) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=perezc52))
 	  </div>
 
 <br/>  
