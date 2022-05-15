@@ -60,7 +60,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perezc52&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center">![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=perezc52)</div>  
 
 <br/>  
 
