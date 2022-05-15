@@ -44,10 +44,10 @@
 <br/>
       <p align="center">
       <a href="https://www.codewars.com/users/perezc52">
-    <img src="https://www.codewars.com/users/TonyHerbert22ATX/badges/large" />
+    <img src="https://www.codewars.com/users/perezc52/badges/large" />
         </p>
       
- ## Resume 
+<!--  ## Resume  -->
 <!--  <p align="center">
    <a target="_blank" class ='r' href="https://www.canva.com/design/DAE9-GEh1zw/view?utm_content=DAE9-GEh1zw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" >	    
     	      <img src="https://i.imgur.com/1kITFnj.jpg" align="center" style="width: 30%" />
