@@ -14,8 +14,6 @@
 
 - 📫 You can reach me at [email ](mailto:pcarlos132@yahoo.com?subject=Hello%20from%20GitHub%20ReadMe). Check out my [portfolio](http://webdevcarlos.netlify.app/)  
   
-
--  📋Currently freelancing. Always accepting new clients  
   
 
 <br/>  
