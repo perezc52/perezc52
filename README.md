@@ -3,7 +3,7 @@
   
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> I'm Carlos. A full-stack web developer</h1>
+<h1 align="center">Hi 👋 I'm Carlos. A full-stack web developer</h1>
   
 
 - 💼 Creative, detail-oriented, web developer with an interest in keeping up with the latest web technologies. Proven track record of creating and implementing successful front and back-end web applications. Looking to bring my skills to a tech company with global reach.  
