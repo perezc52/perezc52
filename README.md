@@ -12,7 +12,7 @@
 - ⚡I’m interested in all things tech. If I am not working on tech, I am playing video games or playing with my cat.  
   
 
-- 📫 You can reach me at [email ](mailto:pcarlos132@yahoo.com?subject=Hello%20from%20GitHub%20ReadMe). Check out my [portfolio](http://webdevcarlos.netlify.app/)  
+- 📫 You can reach me at [email ](mailto:pcarlos132@yahoo.com?subject=Hello%20from%20GitHub%20ReadMe). Check out my [portfolio](https://webdevcarlos.vercel.app/)  
   
   
 
